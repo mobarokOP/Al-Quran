@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://banglaquran.app/sitemap.xml
+Sitemap: https://mobarokop.github.io/Al-Quran/sitemap.xml
