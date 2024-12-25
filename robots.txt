@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://banglaquran.app/sitemap.xml
